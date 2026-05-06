@@ -19,3 +19,7 @@ In this task, I implemented a Decision Tree Classifier using the Iris dataset wi
 Additionally, the decision tree was visualized using matplotlib to understand how different features such as petal length and petal width contribute to the classification of flower species.
 
 This task helped me understand the working of decision trees, model training, evaluation, and visualization in machine learning.
+
+# Output
+<img width="1280" height="692" alt="Image" src="https://github.com/user-attachments/assets/36544b38-7d4f-428e-b7f7-9b6c460ba773" />
+
