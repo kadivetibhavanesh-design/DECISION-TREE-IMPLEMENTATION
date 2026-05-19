@@ -11,7 +11,7 @@
 "DURATION": 4 WEEKS
 
 "MENTOR": NEELA SANTOSH
-
+# DESCRIPTION OF TASK : DECISION-TREE-IMPLEMENTATION
 This repository contains my Task-1 submission for the Machine Learning Internship at CodTech IT Solutions.
 
 In this task, I implemented a Decision Tree Classifier using the Iris dataset with the help of Scikit-learn. The dataset was preprocessed and split into training and testing sets. The model was trained on the training data and evaluated on the test data, achieving high accuracy.
